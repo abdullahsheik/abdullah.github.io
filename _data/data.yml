@@ -14,10 +14,11 @@ contact:
 languages:
   - idiom: English
   - idiom: Urdu
+  - idiom: Hindi
   - idiom: Telugu
 
 education:
-  - degree: Masters of Engineering in Quality Systems
+  - degree: M.Engg in Quality Systems
     time: 2015-2017
     university: Concordia University
 
