@@ -104,21 +104,21 @@ experience:
     company: CITI
     details: |
       Worked for the Capital Markets organization project where Citi has developed a database by collaborating two external platforms of investors and syndicates and linked the data of different external platforms to create one internal platform where an investor can be able to place an order and view the deals/allocations in the citi velocity application.
-        •	Worked closely with Business Analyst and Project Manager to understand the business requirements and functionalities of the project
-          •	Broke down Business requirements, Use case records and Functional specifications documents for composing test Plans, test cases and test scripts. 
-            •	Participated in Daily Scrum, Scrum Retrospective, Backlog meetings as per Agile Iterative Software Development Life Cycle procedure. 
-              •	Utilizing Quick Test Professional to generate automation script in order do regression testing. 
-                •	Used Udeploy to deploy the JIRA to various environments like Dev, QAT, UAT and PROD
-                   •	Created test Plans, test cases and test Scripts for both positive and negative test situations. 
-      •	Utilized ALM for test Plan administration, and for creating and executing test cases.
-      •	Managed all test planning, estimation, execution, defect tracking, dashboard reporting, mapping requirement to traceability in HP ALM, test closure 
-      •	Status Reporting and Defect Management in HP ALM – Raise the defects and track its closure 
-      •	Major involvement in advancing test activities over different tasks. 
-      •	Highly involved in making SQL Scripts for validation information. 
-      •	Wrote various test cases and test steps in JIRA board.
-      •	Used JIRA board for defect tracking, revealing bugs, executing test cases and closing them.
-      •	Involved and assisted the Business in User Acceptance Test Planning (UAT), and communicated with test team, developers and user management.
-      •	Participated in the walkthrough process for early identification of defects, defect management life cycle, defect identification, review, diagnosis, resolution and use cases.
+      •	Worked closely with Business Analyst and Project Manager to understand the business requirements and functionalities of the project <br>
+      •	Broke down Business requirements, Use case records and Functional specifications documents for composing test Plans, test cases and test scripts.  <br>
+      •	Participated in Daily Scrum, Scrum Retrospective, Backlog meetings as per Agile Iterative Software Development Life Cycle procedure. <br>
+      •	Utilizing Quick Test Professional to generate automation script in order do regression testing. <br>
+      •	Used Udeploy to deploy the JIRA to various environments like Dev, QAT, UAT and PROD <br>
+      •	Created test Plans, test cases and test Scripts for both positive and negative test situations. <br>
+      •	Utilized ALM for test Plan administration, and for creating and executing test cases. <br>
+      •	Managed all test planning, estimation, execution, defect tracking, dashboard reporting, mapping requirement to traceability in HP ALM, test closure <br>
+      •	Status Reporting and Defect Management in HP ALM – Raise the defects and track its closure <br>
+      •	Major involvement in advancing test activities over different tasks. <br>
+      •	Highly involved in making SQL Scripts for validation information. <br>
+      •	Wrote various test cases and test steps in JIRA board. <br>
+      •	Used JIRA board for defect tracking, revealing bugs, executing test cases and closing them. <br>
+      •	Involved and assisted the Business in User Acceptance Test Planning (UAT), and communicated with test team, developers and user management. <br>
+      •	Participated in the walkthrough process for early identification of defects, defect management life cycle, defect identification, review, diagnosis, resolution and use cases. <br>
       •	Implemented BDD framework using Cucumber.
     technologies_used: | 
       Java, WebDriver, Selenium, Spring Tool suite, Load Runner, HP ALM, Eclipse, JIRA, Udeploy, SourceTree, OpenShift, SharePoint, Confluence, Postman, Citrix, Oracle, PL/SQL Developer, JRE, TeamCity, GIT
