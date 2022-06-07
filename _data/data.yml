@@ -28,7 +28,7 @@ education:
 
   - degree: Applied Devops Diploma
     time: 2022-Present
-    university: Toronto institute of Data science and Technology  
+    university: Toronto institute of <br> Data science and Technology  
 
 skills:
   - category: Backend
