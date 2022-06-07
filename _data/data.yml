@@ -18,15 +18,15 @@ languages:
   - idiom: Telugu
 
 education:
-  - degree: Masters of Engineering in Quality Systems
+  - degree: M.E in Quality Systems
     time: 2015-2017
     university: Concordia University
 
-  - degree: B.Engg in Electronics and communications
+  - degree: B.E in Electronics and communications
     time: 2007-2011
     university: JNTU University
 
-  - degree: Applied Devops engineer diploma
+  - degree: Applied Devops Diploma
     time: 2022-Present
     university: Toronto institute of Data science and Technology  
 
@@ -67,14 +67,59 @@ experience:
     company: Mackenzie Investments
     details: |
       This project involved testing of functional requirements and regression testing of a wealth management web application. Digital Advisor Portal (DAP) is a sophisticated and highly automated project which is used to view and manage financial client relationships. It involved the migration of personal and financial data of clients and potential clients from the legacy system to Salesforce platform. The client’s data is stored in Salesforce objects and made available to the advisors within the application.
+      •	Responsible for creation and execution of Test cases within an AGILE software development environment.
+      •	Designed and developed test scripts to automate process of testing in Selenium WebDriver.
+      •	Implemented Storyboards as one of the requirements elicitation techniques as a part of the Agile methodology.
+      •	Actively participated in daily SCRUM meetings to discuss the bottlenecks and track the status.
+      •	Lead the onsite and offshore team effectively in the absence of team lead.
+      •	Gathered automation requirements while evaluating and defining the scope of automation testing.
+      •	Developed and maintained the automated test script for regression tests and Smoke Tests.
+      •	Mentored team members in design and analysis activities consistently by encouraging them.
+      •	Created automation using Data Driven Framework with POM to test web application.
+      •	Prepared the Test Plan Document and Contributed for Test Strategy.
+      •	Effectively managed Accessing Links & Tables using Selenium WebDriver and automated all End to End test cases using Selenium WebDriver with Java.
+      •	Developed scripts to navigate to various iframes and to handle multiple windows and performed operations on the web elements.
+      •	Notable experience in handling Ajax requests in Selenium Web Driver using Synchronization.
+      •	Performed operations on the database using JDBC APIs and validated the UI with the database using SQL.
+      •	Used Selenium WebDriver API with TestNG to automate tests in parallel and set priorities for the Test cases using TestNG framework.
+      •	Effectively utilized Apache POI to read data from external sources. Developed Selenium script to capture screenshots and used Actions class to perform mouse and keyboard events.
+      •	Actively involved in automation of the popups using the Alert interface.
+      •	Configured Jenkins build job for continuous Integration and for Regression Testing.
+      •	Performed JavaScript testing on client-side validation.
+      •	Managed framework dependency jar files using Maven build tool.
+      •	Generated test logs utilizing Log4j for different log levels.
+      •	Expertise in using GitHub to maintain and manage the build scripts, test data and other documents in the project scope.
+      •	Implemented Selenium Synchronization for Conditional and Un-Conditional waits using Implicit Waits and Explicit Waits.
+      •	Implemented TM4j to track and resolve defects.
+      •	Worked with Rest Assured to test Restful Web services using SOA tool Postman.
+      •	Shared knowledge effectively on Confluence and accessed team calendars via the Confluence tool.
+      •	Used SharePoint on Office365 to document knowledge sharing documents.
     technologies_used: | 
       Salesforce, MySQL, SOQL, Postman, Restful, Java, Selenium, Jira, TM4J, Perfecto, SOAPUI
-  
-  - role: Intermediate Quality Analyst
+     
+
+
+  - role: Intermediate Quality Assurance Analyst
     time: 2017-2019
     company: CITI
     details: |
       Worked for the Capital Markets organization project where Citi has developed a database by collaborating two external platforms of investors and syndicates and linked the data of different external platforms to create one internal platform where an investor can be able to place an order and view the deals/allocations in the citi velocity application.
+      •	Worked closely with Business Analyst and Project Manager to understand the business requirements and functionalities of the project
+      •	Broke down Business requirements, Use case records and Functional specifications documents for composing test Plans, test cases and test scripts. 
+      •	Participated in Daily Scrum, Scrum Retrospective, Backlog meetings as per Agile Iterative Software Development Life Cycle procedure. 
+      •	Utilizing Quick Test Professional to generate automation script in order do regression testing. 
+      •	Used Udeploy to deploy the JIRA to various environments like Dev, QAT, UAT and PROD
+      •	Created test Plans, test cases and test Scripts for both positive and negative test situations. 
+      •	Utilized ALM for test Plan administration, and for creating and executing test cases.
+      •	Managed all test planning, estimation, execution, defect tracking, dashboard reporting, mapping requirement to traceability in HP ALM, test closure 
+      •	Status Reporting and Defect Management in HP ALM – Raise the defects and track its closure 
+      •	Major involvement in advancing test activities over different tasks. 
+      •	Highly involved in making SQL Scripts for validation information. 
+      •	Wrote various test cases and test steps in JIRA board.
+      •	Used JIRA board for defect tracking, revealing bugs, executing test cases and closing them.
+      •	Involved and assisted the Business in User Acceptance Test Planning (UAT), and communicated with test team, developers and user management.
+      •	Participated in the walkthrough process for early identification of defects, defect management life cycle, defect identification, review, diagnosis, resolution and use cases.
+      •	Implemented BDD framework using Cucumber.
     technologies_used: | 
       Java, WebDriver, Selenium, Spring Tool suite, Load Runner, HP ALM, Eclipse, JIRA, Udeploy, SourceTree, OpenShift, SharePoint, Confluence, Postman, Citrix, Oracle, PL/SQL Developer, JRE, TeamCity, GIT
 
@@ -84,12 +129,4 @@ projects:
     details: |
       Built and deployed a node.js app to AWS cloud. The app is a MS paint built locally and deployed to cloud by writing a docker image using a docker file and making it available on Dockerhub so anyone can run it on cloud or any device
 
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+# volunteering:
