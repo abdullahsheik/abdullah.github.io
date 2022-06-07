@@ -67,7 +67,7 @@ experience:
     company: Mackenzie Investments
     details: |
       This project involved testing of functional requirements and regression testing of a wealth management web application. Digital Advisor Portal (DAP) is a sophisticated and highly automated project which is used to view and manage financial client relationships. It involved the migration of personal and financial data of clients and potential clients from the legacy system to Salesforce platform. The client’s data is stored in Salesforce objects and made available to the advisors within the application. <br> <br>
-      •	Responsible for creation and execution of Test cases within an AGILE software development environment. <br>
+      • Responsible for creation and execution of Test cases within an AGILE software development environment. <br>
       •	Designed and developed test scripts to automate process of testing in Selenium WebDriver. <br>
       •	Implemented Storyboards as one of the requirements elicitation techniques as a part of the Agile methodology. <br>
       •	Actively participated in daily SCRUM meetings to discuss the bottlenecks and track the status. <br>
@@ -103,7 +103,7 @@ experience:
     time: 2017-2019
     company: CITI
     details: |
-      Worked for the Capital Markets organization project where Citi has developed a database by collaborating two external platforms of investors and syndicates and linked the data of different external platforms to create one internal platform where an investor can be able to place an order and view the deals/allocations in the citi velocity application. <br>
+      Worked for the Capital Markets organization project where Citi has developed a database by collaborating two external platforms of investors and syndicates and linked the data of different external platforms to create one internal platform where an investor can be able to place an order and view the deals/allocations in the citi velocity application. <br> <br>
       •	Worked closely with Business Analyst and Project Manager to understand the business requirements and functionalities of the project <br>
       •	Broke down Business requirements, Use case records and Functional specifications documents for composing test Plans, test cases and test scripts.  <br>
       •	Participated in Daily Scrum, Scrum Retrospective, Backlog meetings as per Agile Iterative Software Development Life Cycle procedure. <br>
@@ -125,7 +125,7 @@ experience:
 
 projects:
   - title: MS paint app on AWS 
-    link: #
+    link: # https://hub.docker.com/repository/docker/abdullahmustafavi/jspaint1
     details: |
       Built and deployed a node.js app to AWS cloud. The app is a MS paint built locally and deployed to cloud by writing a docker image using a docker file and making it available on Dockerhub so anyone can run it on cloud or any device
 
