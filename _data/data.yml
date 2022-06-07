@@ -51,7 +51,7 @@ skills:
     skill:
       - Python
       - Java
-      - Selenium
+      - Selenium Automation
   - category: Cloud
     skill:
       - Salesforce
@@ -78,6 +78,7 @@ experience:
     details: |
       This project involved testing of functional requirements and regression testing of a wealth management web application. Digital Advisor Portal (DAP) is a sophisticated and highly automated project which is used to view and manage financial client relationships. It involved the migration of personal and financial data of clients and potential clients from the legacy system to Salesforce platform. The client’s data is stored in Salesforce objects and made available to the advisors within the application.
       Additionally, support for some digital completion of forms is present. The application generates data for financial forms via Advisor input and client data stored in Salesforce and then sends them to the client via Docusign.
+
     technologies_used: | 
       Java, JIRA, Postman, Docusign, TM4J, MySql, TestNG and Junit Framework, Agile, Github
   
