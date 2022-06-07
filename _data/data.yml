@@ -79,7 +79,6 @@ experience:
       •	Prepared the Test Plan Document and Contributed for Test Strategy. <br>
       •	Effectively managed Accessing Links & Tables using Selenium WebDriver and automated all End to End test cases using Selenium WebDriver with Java. <br>
       •	Developed scripts to navigate to various iframes and to handle multiple windows and performed operations on the web elements. <br>
-      •	Notable experience in handling Ajax requests in Selenium Web Driver using Synchronization. <br>
       •	Performed operations on the database using JDBC APIs and validated the UI with the database using SQL. <br>
       •	Used Selenium WebDriver API with TestNG to automate tests in parallel and set priorities for the Test cases using TestNG framework. <br>
       •	Effectively utilized Apache POI to read data from external sources. Developed Selenium script to capture screenshots and used Actions class to perform mouse and keyboard events. <br>
@@ -125,7 +124,7 @@ experience:
 
 projects:
   - title: MS paint app on AWS 
-    link: # https://hub.docker.com/repository/docker/abdullahmustafavi/jspaint1
+    link:  https://hub.docker.com/repository/docker/abdullahmustafavi/jspaint1
     details: |
       Built and deployed a node.js app to AWS cloud. The app is a MS paint built locally and deployed to cloud by writing a docker image using a docker file and making it available on Dockerhub so anyone can run it on cloud or any device
 
