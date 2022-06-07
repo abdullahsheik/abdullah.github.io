@@ -22,7 +22,7 @@ education:
     time: 2015-2017
     university: Concordia University
 
-  - degree: B.E in Electronics and communications
+  - degree: B.E Electronics and communications
     time: 2007-2011
     university: JNTU University
 
@@ -58,7 +58,7 @@ skills:
 
 # Profile
 profile: |
-  Around 5 years of experience in Quality Assurance with expertise in Manual Testing, Functional Automation, Mobile Automation, Build Deployment, and Continuous Integration with different applications. 
+  Around 5 years of experience in Quality Assurance with expertise in Manual Testing, Functional Automation, Mobile Automation, Build Deployment, and Continuous Integration with different applications. Currently enrolled in an Applied Devops diploma program
 
 # Experience
 experience:
@@ -104,12 +104,12 @@ experience:
     company: CITI
     details: |
       Worked for the Capital Markets organization project where Citi has developed a database by collaborating two external platforms of investors and syndicates and linked the data of different external platforms to create one internal platform where an investor can be able to place an order and view the deals/allocations in the citi velocity application.
-      •	Worked closely with Business Analyst and Project Manager to understand the business requirements and functionalities of the project
-      •	Broke down Business requirements, Use case records and Functional specifications documents for composing test Plans, test cases and test scripts. 
-      •	Participated in Daily Scrum, Scrum Retrospective, Backlog meetings as per Agile Iterative Software Development Life Cycle procedure. 
-      •	Utilizing Quick Test Professional to generate automation script in order do regression testing. 
-      •	Used Udeploy to deploy the JIRA to various environments like Dev, QAT, UAT and PROD
-      •	Created test Plans, test cases and test Scripts for both positive and negative test situations. 
+        •	Worked closely with Business Analyst and Project Manager to understand the business requirements and functionalities of the project
+          •	Broke down Business requirements, Use case records and Functional specifications documents for composing test Plans, test cases and test scripts. 
+            •	Participated in Daily Scrum, Scrum Retrospective, Backlog meetings as per Agile Iterative Software Development Life Cycle procedure. 
+              •	Utilizing Quick Test Professional to generate automation script in order do regression testing. 
+                •	Used Udeploy to deploy the JIRA to various environments like Dev, QAT, UAT and PROD
+                   •	Created test Plans, test cases and test Scripts for both positive and negative test situations. 
       •	Utilized ALM for test Plan administration, and for creating and executing test cases.
       •	Managed all test planning, estimation, execution, defect tracking, dashboard reporting, mapping requirement to traceability in HP ALM, test closure 
       •	Status Reporting and Defect Management in HP ALM – Raise the defects and track its closure 
