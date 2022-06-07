@@ -26,72 +26,63 @@ education:
     time: 2007-2011
     university: JNTU University
 
+  - degree: Applied Devops engineer diploma
+    time: 2022-Present
+    university: Toronto institute of Data science and Technology  
+
 skills:
   - category: Backend
     skill: 
       - SQL
       - SAP
       - SOQL
+      - Postman
+      - Bitbucket
+      - Sonarqube
   - category: Frontend
     skill:
       - Python
-      - Javascript
+      - Java
+      - Selenium
   - category: DevOps
     skill:
       - Docker
       - Kubernetes
       - Linux
       - CICD
+      - Jenkins
+  - category: Cloud
+    skill:
+      - Salesforce
+      - AWS
 
 # Profile
 profile: |
-  Test
+  Around 5 years of experience in Quality Assurance with expertise in Manual Testing, Functional Automation, Mobile Automation, Build Deployment, and Continuous Integration with different applications. 
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Quality Assurance Analyst
+    time: 2019-Present
+    company: Mackenzie Investments
     details: |
-      Test
+      This project involved testing of functional requirements and regression testing of a wealth management web application. Digital Advisor Portal (DAP) is a sophisticated and highly automated project which is used to view and manage financial client relationships. It involved the migration of personal and financial data of clients and potential clients from the legacy system to Salesforce platform. The client’s data is stored in Salesforce objects and made available to the advisors within the application.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Salesforce, MySQL, SOQL, Postman, Restful, Java, Selenium, Jira, TM4J, Perfecto, SOAPUI
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Intermediate Quality Analyst
+    time: 2017-2019
+    company: CITI
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Worked for the Capital Markets organization project where Citi has developed a database by collaborating two external platforms of investors and syndicates and linked the data of different external platforms to create one internal platform where an investor can be able to place an order and view the deals/allocations in the citi velocity application.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
-
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+      Java, WebDriver, Selenium, Spring Tool suite, Load Runner, HP ALM, Eclipse, JIRA, Udeploy, SourceTree, OpenShift, SharePoint, Confluence, Postman, Citrix, Oracle, PL/SQL Developer, JRE, TeamCity, GIT
 
 projects:
-  - title: Cool Project 
+  - title: MS paint app on AWS 
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Built and deployed a node.js app to AWS cloud. The app is a MS paint built locally and deployed to cloud by writing a docker image using a docker file and making it available on Dockerhub so anyone can run it on cloud or any device
 
 # Volunteering
 volunteering:
