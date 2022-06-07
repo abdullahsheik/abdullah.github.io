@@ -5,9 +5,9 @@ fork: true
 # Sidebar
 contact:
   email: sheik.ab70@gmail.com
-  github: abdullahsheik
+  github: abdullahsheik 
   linkedin: abdullahsheik
-  phone: (403)-953-1786
+  phone: 4039531786
   gitlab: 
   twitter: 
 
@@ -22,7 +22,8 @@ education:
     time: 2015-2017
     university: Concordia University
 
-  - degree: B.Engg in Electronics & communications
+  - degree: B.Eng in 
+    Electronics & communications
     time: 2007-2011
     university: JNTU University
    
