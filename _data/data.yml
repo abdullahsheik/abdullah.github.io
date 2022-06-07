@@ -26,9 +26,9 @@ education:
     time: 2007-2011
     university: JNTU University
     
-  - degree: Applied DevOps diploma
-    time: 2007-2011
-    university: JNTU University
+  - degree: Applied DevOps Diploma
+    time: 2022-Present
+    university: Toronto Institute of Data Science and Technology
     
 
 skills:
@@ -53,6 +53,7 @@ skills:
       - Linux
       - CICD
       - Jenkins
+      - Git
 # Profile
 profile: |
 Around 5 years of experience in Quality Assurance with expertise in Manual Testing, Functional Automation, Mobile Automation, Build Deployment, and Continuous Integration with different applications. 
